@@ -21,6 +21,9 @@
         <activity android:name=".StopwatchMain"
             android:label="Stopwatch">
         </activity>
+        <activity android:name=".Animation"
+            android:label="Motivation!">
+        </activity>
 
     </application>
 

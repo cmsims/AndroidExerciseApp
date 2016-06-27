@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animation.xml",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\animation.xml"
+    },
+    {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
     },
@@ -44,20 +48,32 @@
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motivation4.png",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\motivation4.png"
+    },
+    {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motivation1.png",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\motivation1.png"
     },
     {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motivation2.png",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\motivation2.png"
     },
     {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
@@ -76,6 +92,10 @@
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motivation5.png",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\motivation5.png"
+    },
+    {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
@@ -84,16 +104,20 @@
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sticker.png",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\sticker.png"
     },
     {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motivation3.png",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\drawable\\motivation3.png"
     },
     {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",

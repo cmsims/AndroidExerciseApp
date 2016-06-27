@@ -1,10 +1,2 @@
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$id$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\StopwatchMain$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$integer$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$string$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$style$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$mipmap$override.class
+CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\MainActivity$override.class
 CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$styleable$override.class
-CHANGED,C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\net\androidbootcamp\finalproject\R$layout$override.class

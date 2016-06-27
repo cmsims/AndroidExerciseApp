@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\And
 		INJECTED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
@@ -58,6 +58,12 @@ ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\And
 		ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:22:13-38
 	android:name
 		ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:21:19-48
+activity#net.androidbootcamp.finalproject.Animation
+ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:24:9-26:20
+	android:label
+		ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:25:13-40
+	android:name
+		ADDED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml:24:19-44
 uses-sdk
 INJECTED from C:\Users\Various\AndroidStudioProjects\FinalProject2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Various\AndroidStudioProjects\FinalProject2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78

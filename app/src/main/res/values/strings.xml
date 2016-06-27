@@ -12,4 +12,7 @@
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="reset">Reset</string>
+    <string name="imgDescription">Motivation Image</string>
+    <string name="btnStart">Start Frame Animation</string>
+
 </resources>

@@ -76,6 +76,10 @@
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_motivation.xml",
+        "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\src\\main\\res\\layout\\activity_motivation.xml"
+    },
+    {
         "merged": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\Various\\AndroidStudioProjects\\FinalProject2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },

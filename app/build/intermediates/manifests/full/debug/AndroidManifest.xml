@@ -29,6 +29,10 @@
             android:name="net.androidbootcamp.finalproject.StopwatchMain"
             android:label="Stopwatch" >
         </activity>
+        <activity
+            android:name="net.androidbootcamp.finalproject.Animation"
+            android:label="Motivation!" >
+        </activity>
     </application>
 
 </manifest>
