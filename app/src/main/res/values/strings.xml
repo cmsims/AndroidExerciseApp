@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_activity_monday">Monday</string>
+    <string name="title_activity_tuesday">Tuesday</string>
+    <string name="title_activity_wednesday">Wednesday</string>
+    <string name="title_activity_thursday">Thursday</string>
+    <string name="title_activity_friday">Friday</string>
+    <string name="title_activity_saturday">Saturday</string>
+    <string name="title_activity_sunday">Sunday</string>
+    <string name="txtSplash">STOP BEING LAZY SIMS!</string>
+    <string name="txtTitle">Alright fatty, select the day and the exercise and meal plan for the day will tell you what to do!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+</resources>
